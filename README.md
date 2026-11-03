@@ -56,9 +56,6 @@ Data & Tools
 - 🏗️ Build real-world projects that solve practical problems.
 - 🌍 Collaborate with developers and contribute to open source.
 
-🤝 Connect With Me
-
-![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)" (https://github.com/25bawankartp-rbu)
 
 ---
 
