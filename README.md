@@ -1,6 +1,7 @@
 👋 Hey, I'm a Computer Science Student!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=600&lines=Computer+Science+Student;Aspiring+Software+Developer;Exploring+AI+%26+Data+Analytics;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />🎓 Computer Science Student | Class of 2029
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=600&lines=Computer+Science+Student;Aspiring+Software+Developer;Exploring+AI+%26+Data+Analytics;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+🎓 Computer Science Student | Class of 2029
 
 💻 Passionate about programming, problem-solving, and building useful projects.
 
@@ -12,7 +13,7 @@
 
 Languages
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"Python"https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 "Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 "C++" (https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
