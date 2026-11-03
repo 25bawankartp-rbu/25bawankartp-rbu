@@ -37,15 +37,17 @@ Data & Tools
 📊 Student Performance Analytics System
 
 - Analyze student marks, subject averages, rankings, and performance trends.
-- Built with Python, Pandas, and Streamlit.
+- Built with Python, Numpy, Pandas, and Streamlit.
 
 🔭 More projects coming soon!
 
-📈 GitHub Stats
+## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=25bawankartp-rbu&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=25bawankartp-rbu&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <a href="https://github.com/25bawankartp-rbu">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=25bawankartp-rbu&theme=tokyonight" width="100%" />
+  </a>
+</p>
 
 🎯 My Goals
 
